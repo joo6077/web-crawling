@@ -4,5 +4,16 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/java web-crawling/jsoup-1.13.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/java web-crawling/jsoup-1.13.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AORUS/Desktop/Project/Library/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
